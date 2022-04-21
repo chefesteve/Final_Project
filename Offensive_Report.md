@@ -29,11 +29,11 @@ The following vulnerabilities were identified on each target:
   - Comically insecure passwords
   - Python bug that allows root privilege escalation
 
- ![WPScan](http://github.com/chefesteve/Final_Project/tree/main/screens/red_team/wordpress_enumeration_scan.png)
+ ![WPScan](http://github.com/chefesteve/Final_Project/blob/main/screens/red_team/wordpress_enumeration_scan.png)
  
- ![metasploit scan](http://github.com/chefesteve/Final_Project/tree/main/screens/red_team/meta_scan.png)
+ ![metasploit scan](http://github.com/chefesteve/Final_Project/blob/main/screens/red_team/meta_scan.png)
  
- ![Python Root](https://github.com/chefesteve/Final_Project/tree/main/screens/red_team/python_root.png)
+ ![Python Root](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/python_root.png)
 
 ### Exploitation
 
@@ -44,24 +44,24 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       - Weak password
       - cd /var/www/html
 	  - nano service.html
-	  - ![flag1](https://github.com/chefesteve/Final_Project/tree/main/screens/red_team/flag_1.png)
+	  - ![flag1](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/flag_1.png)
   - `flag2.txt`: flag2{fc3fd58dcdad9ab23faca6e9a36e581c}
     - **Exploit Used**
       - Weak password
       - cd /var/www
 	  - nano flag2.txt
-	  - ![flag2](https://github.com/chefesteve/Final_Project/tree/main/screens/red_team/flag_2.png)
+	  - ![flag2](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/flag_2.png)
   - 'flag3.txt': flag3{afc01ab56b50591e7dccf93122770cd2}
 	- **Exploit Used**
 	  - Weak password
 	  - mysql -u root -pR@v3nSecurity
 	  - use wordpress;
 	  - select * from wp_posts;
-	  - ![flag3](https://github.com/chefesteve/Final_Project/tree/main/screens/red_team/flag_3.png)
+	  - ![flag3](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/flag_3.png)
   - 'flag4.txt': flag4{715dea6c055b9fe3337544932f2941ce}
     - **Exploit Used**
 	  - Weak password
 	  - mysql -u root -pR@v3nSecurity
 	  - use wordpress;
 	  - select * from wp_posts;
-	  - ![flag4](https://github.com/chefesteve/Final_Project/tree/main/screens/red_team/flag_4.png)
+	  - ![flag4](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/flag_4.png)
