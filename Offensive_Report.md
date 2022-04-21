@@ -29,9 +29,9 @@ The following vulnerabilities were identified on each target:
   - Comically insecure passwords
   - Python bug that allows root privilege escalation
 
- ![WPScan](http://github.com/chefesteve/Final_Project/blob/main/screens/red_team/wordpress_enumeration_scan.png)
+ ![WPScan](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/wordpress_enumeration_scan.png)
  
- ![metasploit scan](http://github.com/chefesteve/Final_Project/blob/main/screens/red_team/meta_scan.png)
+ ![metasploit scan](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/meta_scan.png)
  
  ![Python Root](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/python_root.png)
 
