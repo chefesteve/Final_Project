@@ -11,8 +11,9 @@ Nmap scan results for each machine reveal the below services and OS details:
 
 ```bash
 $ nmap -sV 192.168.1.110
+ ```
+ 
   ![nmap scan](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/target_1_nmap_scan.png)
-```
 
 This scan identifies the services below as potential points of entry:
 - Target 1
@@ -28,9 +29,9 @@ The following vulnerabilities were identified on each target:
   - Comically insecure passwords
   - Python bug that allows root privilege escalation
 
- ![WPScan](http://github.com/chefesteve/Final_Project/blob/main/screens/red_team/wordpress_enumeration_scan.png)
+ ![WPScan](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/wordpress_enumeration_scan.png)
  
- ![metasploit scan](http://github.com/chefesteve/Final_Project/blob/main/screens/red_team/meta_scan.png)
+ ![metasploit scan](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/meta_scan.png)
  
  ![Python Root](https://github.com/chefesteve/Final_Project/blob/main/screens/red_team/python_root.png)
 
