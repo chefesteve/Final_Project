@@ -14,7 +14,7 @@ You have two class days to complete this activity.
 
 Start by configuring new alerts in Kibana. Once configured, you will test them by attacking a system.
 
-Open the [Defensive Report Template](../../../Resources/DefensiveTemplate.md) and complete it as you progress through the activity.
+Open the [Defensive Report](https://github.com/chefesteve/Final_Project/blob/main/Defensive_Report.md) and complete it as you progress through the activity.
 
 ### Configuring Alerts
 
@@ -86,7 +86,7 @@ There are a few way to to view these log messages and their associated data opti
 
 ### Attacking Target 1
 
-Open the [Offensive Report Template](../../../Resources/OffensiveTemplate.md) and complete it while you progress this activity.
+Open the [Offensive Report](https://github.com/chefesteve/Final_Project/blob/main/Offensive_Report.md) and complete it while you progress this activity.
 
 You will need to run a few commands on `Target 1` in order to ensure that it forwards logs to Kibana. Follow the steps below:
 
@@ -154,7 +154,7 @@ Yesterday, your team confirmed that newly created alerts are working. Today, you
 
 You are to report back all your findings to both the SOC manager and the Engineering Manager with appropriate analysis.
 
-Fill out the [Network Report Template](https://docs.google.com/document/d/109JqFQrFcftu1AdSqoecA7CU45q4aKsEQb1FN7AbfS0/edit#heading=h.459xhyj81x3u) as you progress through this activity.
+Fill out the [Network Report](https://github.com/chefesteve/Final_Project/blob/main/Network_Report.md) as you progress through this activity.
 
 ### Setup
 
@@ -197,7 +197,7 @@ Connect to your Kali VM, launch Wireshark, and begin capturing on the `eth0` int
 
 Record your answers in the following Google Doc. This file will be submitted as a deliverable at the end of the project. You must make a copy of this file in order to edit it.
 
-- [Network Analysis Report Template](https://docs.google.com/document/d/109JqFQrFcftu1AdSqoecA7CU45q4aKsEQb1FN7AbfS0/edit#heading=h.459xhyj81x3u)
+- [Network Analysis Report](https://github.com/chefesteve/Final_Project/blob/main/Network_Report.md)
 
 #### Time Thieves
 
