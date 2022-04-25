@@ -172,10 +172,8 @@ In order to get started, you will need to:
 
 If you are unable to find some of the solutions, it is possible you did not allow Wireshark to capture traffic for long enough. To save time, feel free to use the following PCAP file below to answer the questions:
   
-  - [PCAP](https://drive.google.com/file/d/1ggMVl1t_DZfw1WB93FO6hMLe5Ffqz40F/view?usp=sharing) 
-  - If copy and paste is not available on the VM, use `curl` to download the file with this alternate URL: [http://tinyurl.com/yaajh8o8](http://tinyurl.com/yaajh8o8).
-    - For example: `curl -L -o pcap.pcap http://tinyurl.com/yaajh8o8`
-
+  - PCAP 
+  
 **Note:** You will be dealing with live malware in this activity. Please make sure all work is done on Azure machines. 
 
 ### Instructions
